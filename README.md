@@ -88,8 +88,9 @@ __
 
 ## SELinux Policy files location
 
+* Android SeLinux policy [https://source.android.com/docs/security/features/selinux/build](https://source.android.com/docs/security/features/selinux/build)
 * Core policy files [https://android.googlesource.com/platform/system/sepolicy/](https://android.googlesource.com/platform/system/sepolicy/)
-* vendor/system\_ext/product seplicy
+* 4 locations (platform/vendor/system\_ext/product) seplicy
 
 ```
 BOARD_VENDOR_SEPOLICY_DIRS += device/samsung/tuna/sepolicy
@@ -98,6 +99,16 @@ SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += device/acme/roadrunner-sepolicy/systemext/pr
 PRODUCT_PUBLIC_SEPOLICY_DIRS += device/acme/roadrunner-sepolicy/product/public
 PRODUCT_PRIVATE_SEPOLICY_DIRS += device/acme/roadrunner-sepolicy/product/private
 ```
+
+### Meaning of public and private
+
+According to [https://source.android.com/docs/security/features/selinux/build](https://source.android.com/docs/security/features/selinux/build)
+
+**Public policy** is exported to vendor. Types and attributes become stable API, and vendor policy can refer to types and attributes in the public policy. Types are versioned according to `PLATFORM_SEPOLICY_VERSION`, and the versioned policy is included to the vendor policy. The original policy is included to each of system\_ext and product partition.&#x20;
+
+**Private policy** contains system\_ext-only and product-only types, permissions, and attributes required for system\_ext and product partitions' functionality. Private policy is invisible to vendor, implying that these rules are internal and allowed to be modified.
+
+system\_ext and product are allowed to export their designated public types to vendor.
 
 
 
