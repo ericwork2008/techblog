@@ -14,11 +14,7 @@ Google had good website for the Android SELinux https://source.android.com/docs/
 
 {% embed url="https://source.android.com/docs/security/features/selinux/concepts" %}
 
-| Name             | Explain                                                                                                                                 |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Security Context | username:role:type:MLS security range                                                                                                   |
-| Security Policy  | Used by kernel security server to allow or disallow access to kernel objects at runtime. It is composited by statements and rules.      |
-| Access Vector    | SELinux permission, refer to system/sepolicy/prebuilts/api/28.0/private/access\_vectors which Define common prefixes for access vectors |
+<table><thead><tr><th width="214">Name</th><th>Explain</th></tr></thead><tbody><tr><td>Security Context</td><td>username:role:type:MLS security range</td></tr><tr><td>Security Policy</td><td>Used by kernel security server to allow or disallow access to kernel objects at runtime. It is composited by statements and rules. </td></tr><tr><td>Access Vector</td><td>SELinux permission, refer to system/sepolicy/prebuilts/api/28.0/private/access_vectors which Define common prefixes for access vectors</td></tr></tbody></table>
 
 **Username** may be a group or class of user, one user may have several roles. One **role** may associated with one or more **domain** types, **type** is used to group processes in a domain or an object logic type. In Android user and security range are always set to _u_ and _s0_. The role is set to either _r_ for domains (processes) or to the built-in _object\_r_ role for objects. In Filesystem, it uses _security.selinux_ to store the security context of file objects.&#x20;
 
@@ -56,7 +52,7 @@ rule_name source_type target_type : class perm_set;
 
 rule\_name are, `allow`, `dontaudit`, `auditallow`, or `neverallow.`
 
-``
+
 
 ### How to setup relationship of types
 
