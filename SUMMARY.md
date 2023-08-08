@@ -20,3 +20,7 @@
 * [Android Build system](android-build-system.md)
 * [Android Kernel](android-kernel.md)
 * [HAL](hal.md)
+
+## Performance
+
+* [bootup performance](performance/bootup-performance.md)
