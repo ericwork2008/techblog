@@ -24,7 +24,4 @@
 ## Performance
 
 * [bootup performance](performance/bootup-performance.md)
-
-## Performance
-
-* [Boot Performance](performance-1/boot-performance.md)
+* [Boot Performance](performance/boot-performance.md)
