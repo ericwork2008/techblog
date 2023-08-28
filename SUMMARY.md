@@ -19,7 +19,8 @@
 * [Android Timer usage](android-timer-usage.md)
 * [Android Build system](android-build-system.md)
 * [Android Kernel](android-kernel.md)
-* [HAL](hal.md)
+* [HAL](hal/README.md)
+  * [How Android complain with old Version HAL](hal/how-android-complain-with-old-version-hal.md)
 
 ## Performance
 
