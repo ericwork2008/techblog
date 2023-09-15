@@ -15,6 +15,7 @@
   * [AppOpsManager](fw-generic/appopsmanager.md)
   * [How Android Manager Processes?](fw-generic/how-android-manager-processes.md)
   * [Android memory](fw-generic/android-memory.md)
+* [WMS](wms.md)
 * [Android SELinux Introduction](<README (1).md>)
 * [Android Timer usage](android-timer-usage.md)
 * [Android Build system](android-build-system.md)
