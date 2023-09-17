@@ -29,3 +29,4 @@
 * [Bootchart Usage](performance/bootchart-usage.md)
 * [Boot Performance](performance/boot-performance.md)
 * [Linux VM parameter tuning](performance/linux-vm-parameter-tuning.md)
+* [Start type](performance/start-type.md)
