@@ -18,6 +18,7 @@
 * [WMS](wms/README.md)
   * [ProcStats](wms/procstats.md)
 * [AMS](ams.md)
+* [Android Application start](android-application-start.md)
 * [Android SELinux Introduction](<README (1).md>)
 * [Android Timer usage](android-timer-usage.md)
 * [Android Build system](android-build-system/README.md)
