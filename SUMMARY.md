@@ -17,6 +17,7 @@
   * [Android memory](fw-generic/android-memory.md)
 * [WMS](wms/README.md)
   * [ProcStats](wms/procstats.md)
+* [AMS](ams.md)
 * [Android SELinux Introduction](<README (1).md>)
 * [Android Timer usage](android-timer-usage.md)
 * [Android Build system](android-build-system/README.md)
@@ -31,7 +32,4 @@
 * [Boot Performance](performance/boot-performance.md)
 * [Linux VM parameter tuning](performance/linux-vm-parameter-tuning.md)
 * [App Performance](performance/app-performance.md)
-
-***
-
-* [Page 1](page-1.md)
+* [Android App Memory](performance/android-app-memory.md)
