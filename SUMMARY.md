@@ -24,6 +24,9 @@
 * [Android Build system](android-build-system/README.md)
   * [Binder cannot wake up the target process?](android-build-system/binder-cannot-wake-up-the-target-process.md)
 * [Android Kernel](android-kernel.md)
+* [Misc Services](misc-services/README.md)
+  * [AppSearch](misc-services/appsearch.md)
+  * [Crash Recovery](misc-services/crash-recovery.md)
 * [HAL](hal/README.md)
   * [How Android complain with old Version HAL](hal/how-android-complain-with-old-version-hal.md)
 
