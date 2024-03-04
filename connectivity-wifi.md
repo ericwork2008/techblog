@@ -31,3 +31,7 @@ Support different combinations of Wi-Fi interfaces concurrently.
 ## Wi-Fi P2P
 
 {% embed url="https://www.youtube.com/watch?v=ttROgEIqPys" %}
+
+## Wi-Fi NAN
+
+{% embed url="https://yichen.link/?log=blog&id=86" %}
