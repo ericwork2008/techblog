@@ -25,3 +25,9 @@ description: Just some Study Note
 ## Wi-Fi multi-interface concurrency <a href="#wi-fi_multi-interface_concurrency" id="wi-fi_multi-interface_concurrency"></a>
 
 Support different combinations of Wi-Fi interfaces concurrently.
+
+
+
+## Wi-Fi P2P
+
+{% embed url="https://www.youtube.com/watch?v=ttROgEIqPys" %}
