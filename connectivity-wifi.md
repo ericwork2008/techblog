@@ -35,3 +35,7 @@ Support different combinations of Wi-Fi interfaces concurrently.
 ## Wi-Fi NAN
 
 {% embed url="https://yichen.link/?log=blog&id=86" %}
+
+{% embed url="https://www.youtube.com/watch?v=YcUf3RfEpTQ" %}
+
+1\) Range apply
