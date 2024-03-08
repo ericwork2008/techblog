@@ -32,6 +32,8 @@ Support different combinations of Wi-Fi interfaces concurrently.
 
 {% embed url="https://www.youtube.com/watch?v=ttROgEIqPys" %}
 
+{% embed url="https://devopedia.org/wi-fi-direct" %}
+
 ## Wi-Fi NAN
 
 {% embed url="https://yichen.link/?log=blog&id=86" %}
