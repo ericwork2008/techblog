@@ -4,4 +4,4 @@ in Device update, sometimes crash will happend. Obervers can execute actions: re
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
