@@ -4,7 +4,7 @@ description: Draft by ChatGPT, then copy from Google MAD skills
 
 # App Performance
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 ## Matrics
 
@@ -25,9 +25,9 @@ _Activity#reportFullyDrawn()_
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Log Message:** "Displayed com.example.package/.MainActivity: +XsXXXms"
 * **Metric:** This log message appears in the Logcat and represents the time it took for the main activity (or a specific activity) to become visible to the user after the app was launched.
@@ -50,9 +50,9 @@ _Activity#reportFullyDrawn()_
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **GC (Garbage Collection) Logs:**
 
@@ -82,7 +82,7 @@ SystemTracing
 
 Add benchmark support
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 
 

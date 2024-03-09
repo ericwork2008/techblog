@@ -20,6 +20,7 @@
   * [ProcStats](wms/procstats.md)
 * [AMS](ams.md)
 * [IOT](iot/README.md)
+  * [BLE share](iot/ble-share.md)
   * [MQTT](iot/mqtt.md)
   * [File Sharing b/w Android devices](iot/file-sharing-b-w-android-devices.md)
 * [Android SELinux Introduction](<README (1).md>)
