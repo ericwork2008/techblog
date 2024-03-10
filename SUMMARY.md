@@ -20,6 +20,7 @@
   * [ProcStats](wms/procstats.md)
 * [AMS](ams.md)
 * [IOT](iot/README.md)
+  * [why bluetooth isn't convinience to setup the p2p connection?](iot/why-bluetooth-isnt-convinience-to-setup-the-p2p-connection.md)
   * [BLE share](iot/ble-share.md)
   * [MQTT](iot/mqtt.md)
   * [File Sharing b/w Android devices](iot/file-sharing-b-w-android-devices.md)

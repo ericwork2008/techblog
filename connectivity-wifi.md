@@ -8,6 +8,8 @@ description: Just some Study Note
 
 {% embed url="https://source.android.com/docs/core/connect/wifi-overview" %}
 
+{% embed url="https://aaltodoc.aalto.fi/server/api/core/bitstreams/4a521391-e53a-4d8f-b49a-d776d0467a0a/content" %}
+
 ## Overall technolodgies
 
 * Wi-Fi infrastructure (STA)
@@ -41,3 +43,6 @@ Support different combinations of Wi-Fi interfaces concurrently.
 {% embed url="https://www.youtube.com/watch?v=YcUf3RfEpTQ" %}
 
 1\) Range apply
+
+
+
