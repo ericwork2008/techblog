@@ -151,7 +151,7 @@ Android SeLinux policy [https://source.android.com/docs/security/features/selinu
 
 {% embed url="https://source.android.com/docs/security/features/selinux/customize#android-o" %}
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Core policy files, those files comprise the SELinux kernel security policy and cover the upstream Android operating system [https://android.googlesource.com/platform/system/sepolicy/](https://android.googlesource.com/platform/system/sepolicy/)
 * /device/manufacturer/device-name/sepolicy, will hold the OEM policies. 4 locations (platform/vendor/system\_ext/product) seplicy

@@ -23,7 +23,7 @@ Advertising data payload: transmitted out from the device to let central devices
 
 Only the scanning central device can initiate the connection.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>From <a href="https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap">https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>From <a href="https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap">https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap</a></p></figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@ Only the scanning central device can initiate the connection.
 
 **BroadCast:** peripheral to send data (in advertising packet) to more than one device at a time. Once you establish a connection between your peripheral and a central device, the advertising process will generally stop and you will typically no longer be able to send advertising packets out anymore, and you will use GATT services and characteristics to communicate in both directions.
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="https://learn.adafruit.com/assets/13825" alt=""><figcaption></figcaption></figure>
 
@@ -45,11 +45,11 @@ Only the scanning central device can initiate the connection.
 
 &#x20;it defines the way that two Bluetooth Low Energy devices transfer data back and forth using concepts called **Services** and **Characteristics**. GATT comes into play once a dedicated connection is established between two devices, meaning that you have already gone through the advertising process governed by GAP.
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4).png" alt="" width="416"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="416"><figcaption></figcaption></figure>
 
 **Profile:** it's simply a pre-defined collection of Services that has been compiled by either the Bluetooth SIG or by the peripheral designers. We can see all GATT-based profiles in [https://www.bluetooth.com/specifications/specs/](https://www.bluetooth.com/specifications/specs/)
 

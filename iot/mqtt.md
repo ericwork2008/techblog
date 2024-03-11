@@ -14,7 +14,7 @@ MQTT is a “lightweight” Client Server publish/subscribe messaging transport 
 
 1\) MQTT uses a binary message format
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) well-suited for use in low-bandwidth or low-power environments
 
