@@ -20,7 +20,7 @@ description: Just some Study Note
 
 ## Software Architecture
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 `system/connectivity/wificond` process communicates with the Wi-Fi driver over standard `nl80211` commands.
 
@@ -46,3 +46,6 @@ Support different combinations of Wi-Fi interfaces concurrently.
 
 
 
+## P2P
+
+Wi-Fi Aware is a new technology for P2P connection. It is designed to discover nearby peers without any manually searching or pairing,
