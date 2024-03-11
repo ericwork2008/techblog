@@ -2,7 +2,8 @@
 
 * [Connectivity](README.md)
   * [Connectivity - 5G](connectivity-5g.md)
-  * [Connectivity - WiFi](connectivity-wifi.md)
+  * [Connectivity - WiFi](connectivity/connectivity-wifi/README.md)
+    * [How Wi-Fi Direct get IP address?](connectivity/connectivity-wifi/how-wi-fi-direct-get-ip-address.md)
   * [Connectivity - Bluetooth](connectivity-bluetooth.md)
   * [Linux Data](linux-data.md)
   * [AOSP Data Service & Handover](connectivity/aosp-data-service-and-handover.md)
@@ -20,6 +21,7 @@
   * [ProcStats](wms/procstats.md)
 * [AMS](ams.md)
 * [IOT](iot/README.md)
+  * [AirDrop possible solution](iot/airdrop-possible-solution.md)
   * [why bluetooth isn't convinience to setup the p2p connection?](iot/why-bluetooth-isnt-convinience-to-setup-the-p2p-connection.md)
   * [BLE share](iot/ble-share.md)
   * [MQTT](iot/mqtt.md)

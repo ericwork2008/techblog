@@ -20,7 +20,7 @@ description: Just some Study Note
 
 ## Software Architecture
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 `system/connectivity/wificond` process communicates with the Wi-Fi driver over standard `nl80211` commands.
 
