@@ -34,6 +34,7 @@
     * [File Sharing b/w Android devices](iot/peer-to-peer-applications/file-sharing-b-w-android-devices.md)
     * [AirDrop possible solution](iot/peer-to-peer-applications/airdrop-possible-solution.md)
     * [An Example to use NAN](iot/peer-to-peer-applications/an-example-to-use-nan.md)
+  * [Media](iot/media.md)
 * [Android SELinux Introduction](<README (1).md>)
 * [Android Timer usage](android-timer-usage.md)
 * [Android Build system](android-build-system/README.md)
