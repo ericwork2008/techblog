@@ -24,6 +24,7 @@
   * [Android memory](fw-generic/android-memory.md)
 * [WMS](wms/README.md)
   * [ProcStats](wms/procstats.md)
+  * [Android Window Basic](wms/android-window-basic.md)
 * [AMS](ams.md)
 * [IOT](iot/README.md)
   * [Security](iot/security.md)
